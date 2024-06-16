@@ -4,3 +4,4 @@ torchvision
 ipykernel
 tqdm
 matplotlib
+moviepy
